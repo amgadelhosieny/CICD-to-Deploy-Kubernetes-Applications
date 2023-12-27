@@ -1,5 +1,4 @@
-# End to end deployment of Applications to Kubernetes using a Jenkins CI/CD Pipeline
-
+# End-to-end deployment of Applications to Kubernetes using a Jenkins CI/CD Pipeline, Terraform and EKS
 
 Steps for the project
 1) Create a Keypair that matches your keypair
